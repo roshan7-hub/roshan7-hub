@@ -4,8 +4,6 @@
 
 I'm a problem solver with a strong foundation in Object-Oriented Programming (Java, C++, Python), backend web development, and NLP/data processing. I enjoy building practical tools with clean APIs and applying core computer science fundamentals to real problems. Currently looking for an **entry-level software role**.
 
-📍 Based in Varanasi, Uttar Pradesh, India
-
 ---
 
 ## 🛠️ Tech Stack
@@ -90,10 +88,5 @@ I'm a problem solver with a strong foundation in Object-Oriented Programming (Ja
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanpatel.6702@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ⭐ *Thanks for stopping by! Feel free to explore my repositories.*
